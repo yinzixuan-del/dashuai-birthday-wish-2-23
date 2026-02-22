@@ -429,7 +429,7 @@ function App() {
       {/* 背景音乐 - SOLO */}
       <audio
         ref={audioRef}
-        src="/music/solo.mp3.flac"
+        src="/music/solo.mp3"
         loop
       />
 
